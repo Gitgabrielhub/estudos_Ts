@@ -1,0 +1,1 @@
+no arquivo negocição temos os getters que permitem acessar as propriedades privadas da classe negociação.
